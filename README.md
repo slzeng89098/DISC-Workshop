@@ -1,0 +1,1 @@
+This social connection site connects users at Northwestern University with common characteristics, including school, major, and grade.
