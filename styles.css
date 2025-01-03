@@ -1,0 +1,47 @@
+.inline {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    font-family: "Lucida Console";
+    font-size: 10px;
+}
+  
+.person, .other {
+    border: 2px solid #f2f1fa;
+    background-color: #f2f1fa;
+    height: 206px;
+    width: 150px;
+    padding: 8px;
+    margin: 8px;
+}
+  
+.other {
+    background-color: #ffffff;
+}
+  
+.name {
+    margin: 6px;
+    font-weight: bold;
+}
+  
+.intro {
+    margin: 6px;
+}
+  
+.more{
+    text-align: center;
+    padding: 10px;
+  /*   padding: 50px;
+*/}
+  
+.horizontal{
+    border: 1px solid black;
+    margin: 10px;
+}
+  
+#purp{
+    color: #b299fe;
+    font-weight: bold;
+}
+  
